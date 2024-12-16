@@ -45,3 +45,6 @@
 ### GET IN TOUCH
 
 *Happy coding*!
+
+- *DISCORD*: [discord/opendevflow](https://dsc.gg/od-flow)
+- *WEBSITE*: [website/opendevsflow](https://odf.pages.dev)

@@ -42,6 +42,10 @@
 - Deolin
   - Founder, Owner, Developer
 
+- Zemerik
+  - Founder, Owner, Developer
+
+
 ### GET IN TOUCH
 
 *Happy coding*!

@@ -50,5 +50,5 @@
 
 *Happy coding*!
 
-- *DISCORD*: [discord/opendevflow](https://dsc.gg/od-flow)
-- *WEBSITE*: [website/opendevsflow](https://odf.pages.dev)
+- *DISCORD*: [discord.gg/opendevflow](https://dsc.gg/od-flow)
+- *WEBSITE*: [opendevsflow.xyz](https://opendevsflow.xyz)

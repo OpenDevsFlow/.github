@@ -30,20 +30,11 @@
 
 *Our human-friendly team members*.
 
-- Dev.
-  - Founder, Owner, Developer.
-
-- Iscordian.dev
-  - Founder, Owner, Developer.
-
-- felixar.exe
-  - Founder, Owner, Developer.
-
-- Deolin
-  - Founder, Owner, Developer
-
-- Zemerik
-  - Founder, Owner, Developer
+![TRIPLR1RRT](https://github.com/user-attachments/assets/e97f8294-e86a-4bd9-b404-6fcf3b77f4d2)
+![iscordian](https://github.com/user-attachments/assets/25032ac7-9c31-471e-a693-77811a7ee634)
+![Zemerik](https://github.com/user-attachments/assets/44cd27c6-5c2a-442e-8cc2-18ebe99405b7)
+![deolinnaidoo](https://github.com/user-attachments/assets/2132028a-c057-4fed-b0d6-76da16e2f3f7)
+![alaindev69html](https://github.com/user-attachments/assets/6319a35a-34cc-48b5-bd85-ce98a3cf5ee7)
 
 
 ### GET IN TOUCH

@@ -10,6 +10,17 @@
 - [x] *Dynamic Website Development: From sleek portfolios to powerful e-commerce platforms, we bring your online vision to life*.
 - [x] *Innovative Coding Solutions: Unique, efficient, and scalable code crafted to solve your specific challenges*.
 
+### Get in Touch with us:
+
+Visit our Website - [opendevsflow.xyz](https://opendevsflow.xyz)
+
+- OR
+
+<a href = "https://discord.gg/GMRMV4yeds">
+  <img src = "https://invidget.switchblade.xyz/GMRMV4yeds">
+</a>
+
+
 ## SKILLS
 
 <table align = "center">
@@ -101,9 +112,3 @@
 </table>
 
 
-### GET IN TOUCH
-
-*Happy coding*!
-
-- *DISCORD*: [discord.gg/opendevflow](https://dsc.gg/od-flow)
-- *WEBSITE*: [opendevsflow.xyz](https://opendevsflow.xyz)

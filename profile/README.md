@@ -12,29 +12,93 @@
 
 ## SKILLS
 
-*We know many things and specially this*
-
-#### Node.JS
-*We specialize in Node.js, event-driven architecture to build efficient, APIs with expertise and precision*.
-
-#### React.JS
-*We excel in React.js, interactive user interfaces and scalable web applications with a focus on performance, and seamless user experiences*.
-
-#### Discord.JS
-*Experienced in Discord.JS with Commands, Handlers, Events and much more*.
-
-#### HTML, CSS, JS
-*Best knowledge on HTML, CSS, JS with many elements, SVG, BootStrap and much more*.
+<table align = "center">
+  <tr>
+    <td colspan = "4">
+      <h1 align = "center">
+        We know many things and specially these
+      </h1>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3 align = "center">
+        Node.JS
+      </h3>
+    </td>
+    <td>
+      <h3 align = "center">
+        React.JS
+      </h3>
+    </td>
+    <td>
+      <h3 align = "center">
+        Discord.JS
+      </h3>
+    </td>
+    <td>
+      <h3  align = "center">
+        HTML, CSS, JS
+      </h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align = "center">
+        We specialize in Node.js, event-driven architecture to build efficient, APIs with expertise and precision.
+      </p>
+    </td>
+    <td>
+      <p align = "center">
+       We excel in React.js, interactive user interfaces and scalable web applications with a focus on performance, and seamless user experiences.
+      </p>
+    </td>
+    <td>
+      <p align = "center">
+        Experienced in Discord.JS with Commands, Handlers, Events and much more.
+      </p>
+    </td>
+    <td>
+      <p align = "center">
+        Best knowledge on HTML, CSS, JS with many elements, SVG, BootStrap and much more
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### TEAM
 
-*Our human-friendly team members*.
-
+<table align = "center">
+  <tr>
+    <td colspan = "5">
+      <h1 align = "center">
+        Our human-friendly team members
+      </h1>
+    </td>
+  </tr>
+  <tr align = "center">
+    <td>
+      
 ![TRIPLR1RRT](https://github.com/user-attachments/assets/e97f8294-e86a-4bd9-b404-6fcf3b77f4d2)
+    </td>
+    <td>
+    
 ![iscordian](https://github.com/user-attachments/assets/25032ac7-9c31-471e-a693-77811a7ee634)
+    </td>
+    <td>
+    
 ![Zemerik](https://github.com/user-attachments/assets/44cd27c6-5c2a-442e-8cc2-18ebe99405b7)
+    </td>
+    <td>
+    
 ![deolinnaidoo](https://github.com/user-attachments/assets/2132028a-c057-4fed-b0d6-76da16e2f3f7)
+    </td>
+    <td>
+    
 ![alaindev69html](https://github.com/user-attachments/assets/6319a35a-34cc-48b5-bd85-ce98a3cf5ee7)
+    </td>
+  </tr>
+</table>
 
 
 ### GET IN TOUCH

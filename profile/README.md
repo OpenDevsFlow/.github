@@ -16,8 +16,8 @@ Visit our Website - [opendevsflow.xyz](https://opendevsflow.xyz)
 
 - OR
 
-<a href = "https://discord.gg/GMRMV4yeds">
-  <img src = "https://invidget.switchblade.xyz/GMRMV4yeds">
+<a href = "https://discord.gg/SG7WscM8Vq">
+  <img src = "https://invidget.switchblade.xyz/SG7WscM8Vq">
 </a>
 
 

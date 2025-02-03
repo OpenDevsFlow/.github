@@ -90,7 +90,7 @@ Visit our Website - [opendevsflow.xyz](https://opendevsflow.xyz)
   <tr align = "center">
     <td>
       
-![TRIPLR1RRT](https://github.com/user-attachments/assets/e97f8294-e86a-4bd9-b404-6fcf3b77f4d2)
+![dev-odf](https://github.com/user-attachments/assets/e97f8294-e86a-4bd9-b404-6fcf3b77f4d2)
     </td>
     <td>
     
